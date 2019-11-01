@@ -1,0 +1,23 @@
+h1{
+    color:darkorange;
+    text-align:center;
+    background-color: aquamarine;
+}
+h2{
+    
+    text-align: center;
+    color:aquamarine;
+    background-color:deeppink;
+}
+h3{
+    color: blue
+}
+p{
+    color: aliceblue;
+}
+body{
+    background-image:url("../images/04.jfif");
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
