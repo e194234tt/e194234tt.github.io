@@ -1,0 +1,27 @@
+h1.bluecolor {
+    text-align:center;
+    color: blue;
+    background-color: darkorange
+}
+h1#link{
+    text-align:center;
+    color: black;
+    background-color: cyan;
+}
+h2.blackcolor {
+    text-align:center;
+    color: black;
+    background-color: aquamarine
+}
+h2.redcolor{
+    text-align:center;
+    color: red;
+    background-color: darkslateblue
+}
+body{
+    background-image:url("../images/11.jifi.gif");
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
