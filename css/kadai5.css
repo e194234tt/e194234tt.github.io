@@ -73,3 +73,7 @@ div.under{
     margin-top: 20px;
     text-align: right;
 }
+div.wrap{
+    width: 1000px;
+    margin: 0px auto;
+}
