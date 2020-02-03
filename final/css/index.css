@@ -23,7 +23,7 @@ div.under{
 div.center{
     width: 1000px;
     height: 670px;
-    background-color: aquamarine;
+    background-color: darkblue;
 }
 div.menu{
     width: 1000px;
@@ -64,14 +64,14 @@ span.contentitem2{
 }
 div.content1{
     width:600px;
-    height: 400px;
-    background-color: aqua;
+    height: 450px;
+    background-color: white;
     margin-left: 200px;
     margin-top: 50px;
-    font-size: 30px;
+    font-size: 25px;
 }
 p{
-    margin-top: 10px;
+    margin-top: 0px;
     font-size: 20px;
     display: inline-block;
 }
