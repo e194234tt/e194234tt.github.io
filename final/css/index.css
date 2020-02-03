@@ -9,11 +9,12 @@ div.title{
     background-color:orange;
     font-size: 30px;
     font-family: "Impact";
-    margin-bottom: 20px;
+    margin-bottom: 40px;
 }
 div.under{
     width: 1000px;
     height: 40px;
+    text-align: right;
     background-color: gainsboro;
     font-size: 20px;
     font-family: "Impact";
@@ -34,10 +35,10 @@ span.menuitem{
     display: inline-block;
     vertical-align: top;
     width: 240px;
-    height: 40px;
+    height: 50px;
     background-color: cornsilk;
     text-align: center; 
-    font-size: 30px;
+    font-size: 20px;
     font-family: "Impact";
     border: 5px double black ;
 }
@@ -64,17 +65,19 @@ span.contentitem2{
 div.content1{
     width:600px;
     height: 400px;
-    background-color: antiquewhite;
-    margin-top:100px;
+    background-color: aqua;
     margin-left: 200px;
-    text-align: center; 
+    margin-top: 50px;
     font-size: 30px;
-    border: 5px double black ;
+}
+p{
+    margin-top: 10px;
+    font-size: 20px;
+    display: inline-block;
 }
 body{
-    background-image:url("../images/01.jifi.jpeg");
+    background-image:url("../images/01.jifi.jpg");
     background-repeat:  no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
-}
